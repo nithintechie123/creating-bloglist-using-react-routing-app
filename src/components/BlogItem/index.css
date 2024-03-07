@@ -1,0 +1,29 @@
+.blog-item-container {
+  padding: 20px;
+}
+
+.title-date-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+  color: #12022f;
+  font-family: 'Roboto';
+}
+
+.date {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 13px;
+}
+.description {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.horizontal-line {
+  color: #9aa5b1;
+}
